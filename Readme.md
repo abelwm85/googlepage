@@ -1,1 +1,1 @@
-Página da Google para estudo de Html e Css.
+Página da Google feita em aula para fins de estudo de Html e Css.
